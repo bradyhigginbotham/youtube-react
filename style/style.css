@@ -1,0 +1,49 @@
+body {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.search-bar {
+	margin: 20px 0;
+	text-align: center;
+}
+
+.search-bar input {
+	width: 100%;
+	padding: 0 5px;
+}
+
+.col-md-8.video-detail {
+	padding-left: 0;
+}
+
+.video-detail .details {
+	margin-top: 5px;
+	padding: 10px;
+	border: 1px solid #ddd;
+}
+
+.video-detail .title {
+	font-weight: bold;
+}
+
+.video-detail .description {
+	margin-bottom: 10px;
+}
+
+.list-group.video-list {
+	padding-right: 0;
+}
+
+.video-list-item {
+	cursor: pointer;
+	border-radius: 0 !important;
+}
+
+.video-list-item:hover {
+	background: #eee;
+}
+
+.video-list-item img {
+	max-width: 64px;
+}
